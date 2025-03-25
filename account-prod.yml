@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+account:
+  message: "Hello from Luke Dev 51!! PROD ENV"
+  contact-details:
+    name: "Luke - Dev"
+    email: "luke.dev.51@gmail.com"
+  on-call-support:
+    - 0984138630
+    - 0965021460
