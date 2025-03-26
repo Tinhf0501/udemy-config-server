@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 account:
-  message: "Hello from Luke Dev 51!! DEV ENV NEW ON GITTTTT 2-0"
+  message: "Hello from Luke Dev 51!! DEV ENV NEW ON GIT 2.0"
   contact-details:
     name: "Luke - Dev"
     email: "luke.dev.51@gmail.com"
